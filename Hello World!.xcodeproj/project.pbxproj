@@ -449,6 +449,7 @@
 				6E199273167539C200A1502B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E199274167539C200A1502B /* Build configuration list for PBXNativeTarget "Hello World!Tests" */ = {
 			isa = XCConfigurationList;
@@ -457,6 +458,7 @@
 				6E199276167539C200A1502B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
